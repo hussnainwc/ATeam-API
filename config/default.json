@@ -1,0 +1,9 @@
+{
+  "name": "ATeam",
+  "port": 3000,
+  "database": "ATeam",
+  "connectionOptions": {
+    "useNewUrlParser": true,
+    "useUnifiedTopology": true
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "name": "ATeam - development",
+  "mode": "development",
+  "connection": "mongodb://localhost/",
+  "domain": "http://localhost:3000/api"
+}

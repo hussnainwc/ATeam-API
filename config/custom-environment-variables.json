@@ -1,0 +1,5 @@
+{
+  "port": "ATeam_PORT",
+  "jwtAccessKey": "ATeam_ACCESS_KEY",
+  "jwtRefreshKey": "ATeam_REFRESH_KEY"
+}

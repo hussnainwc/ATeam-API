@@ -1,0 +1,5 @@
+{
+  "name": "ATeam - production",
+  "mode": "production",
+  "connection": "mongodb://localhost/"
+}
