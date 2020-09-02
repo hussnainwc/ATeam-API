@@ -1,9 +1,8 @@
 const express = require("express");
 const router = express.Router();
 const Club = require("../models/Club.js");
-const validator = require("../validations/club.js");
 const idValidator = require("../validations/id.js");
-const {toObjectID} = require("../helpers.js");
+const jwt = require("../middlewares/jwt.js");
 
 router.get("/", jwt, async (req, res) => {
   try {
